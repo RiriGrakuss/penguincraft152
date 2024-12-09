@@ -1,5 +1,5 @@
 <html>
-<h1>Eaglercraft 1.5.2 Browser</h1>
+<h1>Eaglercraft 1.5.2 Penguinmod</h1>
 <head>
 <p>
 <b>Eaglercraft 1.5.2 javascript runtime.</b> Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft.
@@ -9,11 +9,9 @@
 <body>
 
 <p>
-<h1>How to launch game in browser:</h1>
-<p>1. Download the zip file.</p>
-<p>2. Open the zip in your files.</p>
-<p>3. Find the eaglercraft.1.5.2.html file.</p>
-<p>4. Open the file and let it load.</p>
+<h1>How to launch game in penguinmod:</h1>
+<p>1. Open penguinmod.</p>
+<p>2. Seach for penguincraft.</p>
 </p>
 
 <p>
@@ -29,6 +27,6 @@ When you create a new world, it will be a black screen, or you may have spawned 
 
 <div>
 
-<footer><small><b>Disclaimer:</b> I do not own Eaglercraft, and I am not associated with it in any way, this is just a way for people to access it fullscreen on browser.<small><footer>
+<footer><small><b>Disclaimer:</b> I do not own Eaglercraft, and I am not associated with it in any way, this is just a way for people to access it fullscreen on penguinmod.<small><footer>
 
 </html>
